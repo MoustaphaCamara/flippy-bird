@@ -7,7 +7,7 @@ img.src = "./media/flappy-bird-set.png";
 let gamePlaying = false;
 const gravity = 0.5;
 // vitesse des poteaux
-const speed = 6.2;
+const speed = 3.5;
 // taille de l'oiseau [Larg, hauteur]
 const size = [51, 36];
 const jump = -11.5;
